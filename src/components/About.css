@@ -1,0 +1,7 @@
+.test button{
+    color: rgb(0, 0, 0);
+    clip-path: polygon(0 3%, 100% 17%, 74% 56%, 18% 100%, 0 64%);
+    background-color: aliceblue;
+    height: 50px;
+    width: 200px;
+}
